@@ -5,7 +5,7 @@ import { MaterialIcons } from '@expo/vector-icons';
 import React, { Component } from 'react';
 
 
-const API_KEY = 'AIzaSyA06-5ohexOMolcROXBcdT_5M8tbh0-v7Q';
+const API_KEY = 'AIzaSyA06-5ohexOMolcROXBcdT_5M8tbh0-v7';//Q
 
 export default class App extends Component {
   constructor(props) {
